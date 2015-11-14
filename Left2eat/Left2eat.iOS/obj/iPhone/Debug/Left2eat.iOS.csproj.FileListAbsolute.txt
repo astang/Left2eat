@@ -1,0 +1,5 @@
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.iOS\bin\iPhone\Debug\Left2eatiOS.exe
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.iOS\bin\iPhone\Debug\Left2eatiOS.pdb
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.iOS\obj\iPhone\Debug\
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.iOS\obj\iPhone\Debug\Left2eatiOS.exe
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.iOS\obj\iPhone\Debug\Left2eatiOS.pdb

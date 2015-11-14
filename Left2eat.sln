@@ -14,6 +14,7 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Left2eat\Left2eat\Left2eat.projitems*{5c8c6cb1-3db8-4c1a-b6c0-e4bdc9cccac3}*SharedItemsImports = 13
+		Left2eat\Left2eat\Left2eat.projitems*{6454eacb-1ed9-40de-840f-9d0cd05a0b32}*SharedItemsImports = 4
 		Left2eat\Left2eat\Left2eat.projitems*{1529a7c5-4362-4ea6-b467-af42c5a96d78}*SharedItemsImports = 4
 		Left2eat\Left2eat\Left2eat.projitems*{18735b24-efb7-49cb-a515-ec3152bd4c00}*SharedItemsImports = 4
 	EndGlobalSection

@@ -1,0 +1,4 @@
+Left2eat.Droid.MainActivity, Left2eat.Droid;md55ab0a9b192100118d763a8b9a8d8d6a2.MainActivity
+Left2eat.Droid.MainActivity, Left2eat.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55ab0a9b192100118d763a8b9a8d8d6a2.MainActivity
+Left2eat.Droid.MainActivity;md55ab0a9b192100118d763a8b9a8d8d6a2.MainActivity
+left2eat.droid.MainActivity;md55ab0a9b192100118d763a8b9a8d8d6a2.MainActivity

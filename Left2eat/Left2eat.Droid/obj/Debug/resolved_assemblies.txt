@@ -1,0 +1,6 @@
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\Left2eat.Droid.dll
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\System.Core.dll
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\System.dll
+C:\Users\alice\Documents\GitHub SourceTree\Left2eat\Left2eat\Left2eat.Droid\obj\Debug\assemblies\System.Xml.dll
